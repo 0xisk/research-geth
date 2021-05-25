@@ -1,3 +1,6 @@
 [submodule "yellow-paper/YellowPaper_CheatSheet"]
 	path = yellow-paper/YellowPaper_CheatSheet
 	url = https://github.com/benjaminion/YellowPaper_CheatSheet
+[submodule "py-evm"]
+	path = py-evm
+	url = git@github.com:ethereum/py-evm.git
