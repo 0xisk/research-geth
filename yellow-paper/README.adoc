@@ -1,0 +1,4 @@
+= Resources
+:hide-uri-scheme:
+
+- https://www.lucassaldanha.com/ethereum-yellow-paper-walkthrough-1/
